@@ -1,3 +1,2 @@
 # TestRepo
-Testing repository
-This is the first markdown file
+Testing repository for the IBM Data Science course
